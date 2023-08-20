@@ -3,7 +3,7 @@ module example-go-app
 go 1.19
 
 require (
-	github.com/adamluzsi/frameless v0.161.1
+	github.com/adamluzsi/frameless v0.164.0
 	github.com/adamluzsi/testcase v0.139.1
 	github.com/jackc/pgx/v5 v5.4.2
 )

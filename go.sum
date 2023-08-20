@@ -1,5 +1,7 @@
 github.com/adamluzsi/frameless v0.161.1 h1:nu6I6E2fPlGfrQHPTcr0NnZgmRcAX7kO3/bCDej1ask=
 github.com/adamluzsi/frameless v0.161.1/go.mod h1:nMdKW8pGKt2ipUdcP0LQl/2DoeF4zw6h5r7dWI8K6VI=
+github.com/adamluzsi/frameless v0.164.0 h1:IDvACyQFo2OE3iB4ncMlfcLhCIQF2oRElhY6sYj0ohc=
+github.com/adamluzsi/frameless v0.164.0/go.mod h1:nMdKW8pGKt2ipUdcP0LQl/2DoeF4zw6h5r7dWI8K6VI=
 github.com/adamluzsi/frameless/adapters/postgresql v0.0.0-20230709153524-c147734a73bd h1:wEBAUXloHLO6w0EzJfJXgdYLvPrpzAAGIt9/E7hAp1Q=
 github.com/adamluzsi/frameless/adapters/postgresql v0.0.0-20230709153524-c147734a73bd/go.mod h1:tCClq9ji4lDrsN2jMHU1UpuPU1r03493UeIeLqW/fjc=
 github.com/adamluzsi/testcase v0.139.1 h1:k9LY0ZoPRXbrumcxklLjBya9gPQAlcFWaQ7gMjgkU5U=
